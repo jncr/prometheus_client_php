@@ -73,8 +73,7 @@ Also look at the [examples](examples).
 
 ### Dependencies
 
-* PHP 5.3/5.6 (at least these versions are tested at the moment)
-* PHP Redis extension
+* PHP 5.3/5.6/7.0
 * [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
 * Redis
 
